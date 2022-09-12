@@ -6,6 +6,7 @@ This is in a container ready for development.
 
 - gcc, clang, make
 - valgrind, lldb
+- cloc (count line of codes)
 
 ## Integrated aliases
 

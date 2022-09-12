@@ -9,7 +9,8 @@ RUN apt install -y zsh \
 	gcc \
 	make \
 	valgrind \
-	lldb
+	lldb \
+	cloc
 
 # ZSH configuration
 RUN sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
